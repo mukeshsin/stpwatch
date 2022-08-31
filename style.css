@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: arial;
+    letter-spacing: 0cm;
+}
+
+
+.wrapper {
+    border: 1px solid grey;
+    background: #FFA900;
+    min-height: 350px;
+    width: 700px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top:150px;
+
+}
+
+.main-head {
+    text-align: center;
+    font-size: 31px;
+    color: #fff;
+}
+
+.sub-head {
+    font-size: 31px;
+    text-align: center;
+    color: #fff;
+}
+
+p {
+    text-align: center;
+    font-size: 26px;
+    color: #fff;
+}
+
+.all-button {
+    text-align: center;
+    
+}
+
+.btn-first {
+    font-size: 24px;
+    background: #FFA900;
+    color: #fff;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    width: 150px;
+
+}
+.btn-middle{
+    font-size: 24px;
+    background: #FFA900;
+    color: #fff;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    width: 150px;
+}
+.btn-last{
+    font-size: 24px;
+    background: #FFA900;
+    color: #fff;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    width: 150px;
+    
+}
+.btn-first:hover{
+    background-color:white;
+    color:black;
+}
+.btn-middle:hover{
+    background-color:white;
+    color:black;
+}
+.btn-last:hover{
+    background-color:white;
+    color:black;
+}
