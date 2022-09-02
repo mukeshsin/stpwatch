@@ -9,14 +9,14 @@ body {
 
 
 .wrapper {
-    border: 1px solid grey;
+    border: 1px solid black;
     background: #FFA900;
     min-height: 350px;
     width: 700px;
     margin: auto;
     padding-top: 20px;
     padding-bottom: 20px;
-    margin-top:150px;
+    margin-top: 100px;
 
 }
 
@@ -40,7 +40,7 @@ p {
 
 .all-button {
     text-align: center;
-    
+
 }
 
 .btn-first {
@@ -48,42 +48,75 @@ p {
     background: #FFA900;
     color: #fff;
     padding: 8px;
-    margin: 8px;
+    margin: 6px;
     border-radius: 10px;
     border: 2px solid #fff;
-    width: 150px;
+    width: 130px;
 
 }
-.btn-middle{
+
+.btn-middle {
     font-size: 24px;
     background: #FFA900;
     color: #fff;
     padding: 8px;
-    margin: 8px;
+    margin: 6px;
     border-radius: 10px;
     border: 2px solid #fff;
-    width: 150px;
+    width: 130px;
 }
-.btn-last{
+
+.btn-last {
     font-size: 24px;
     background: #FFA900;
     color: #fff;
     padding: 8px;
-    margin: 8px;
+    margin: 6px;
     border-radius: 10px;
     border: 2px solid #fff;
-    width: 150px;
-    
+    width: 130px;
+
 }
-.btn-first:hover{
-    background-color:white;
-    color:black;
+.btn-lap{
+    font-size: 24px;
+    background: #FFA900;
+    color: #fff;
+    padding: 8px;
+    margin: 6px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    width: 130px;
+
 }
-.btn-middle:hover{
-    background-color:white;
-    color:black;
+
+.btn-first:hover {
+    background-color: white;
+    color: black;
 }
-.btn-last:hover{
-    background-color:white;
-    color:black;
+
+.btn-middle:hover {
+    background-color: white;
+    color: black;
+}
+
+.btn-last:hover {
+    background-color: white;
+    color: black;
+}
+.btn-lap:hover {
+    background-color: white;
+    color: black;
+}
+.laps{
+    border: 1px solid black;
+    background: #FFA900;
+    min-height: 200px;
+    width: 700px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 60px;
+    color:white;
+    font-size: 30px;
+    text-align: center;
 }
