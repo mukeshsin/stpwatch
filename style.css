@@ -77,7 +77,8 @@ p {
     width: 130px;
 
 }
-.btn-lap{
+
+.btn-lap {
     font-size: 24px;
     background: #FFA900;
     color: #fff;
@@ -103,11 +104,13 @@ p {
     background-color: white;
     color: black;
 }
+
 .btn-lap:hover {
     background-color: white;
     color: black;
 }
-.laps{
+
+.laps {
     border: 1px solid black;
     background: #FFA900;
     min-height: 200px;
@@ -116,7 +119,8 @@ p {
     padding-top: 20px;
     padding-bottom: 20px;
     margin-top: 60px;
-    color:white;
+    color: white;
     font-size: 30px;
     text-align: center;
+    
 }
